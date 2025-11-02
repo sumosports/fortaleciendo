@@ -19,6 +19,9 @@ ApiUrl = http://1xx.xx.x.xxx:xxxx/api/
     android {
     ...
 
+
+ 
+
     defaultConfig {
         ...
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
